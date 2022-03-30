@@ -1,0 +1,3 @@
+[pytest]
+addopts = -vv -p no:cacheprovider
+# backend_test_homework
